@@ -1,6 +1,6 @@
 # MSP-CD
 
-The pytorch implementation for "Multi-Stage Progressive Change Detection on High-resolution Remote Sensing Imagery" on REMOTE SENSING OF ENVIRONMENT. 
+The pytorch implementation for "Multi-Stage Progressive Change Detection on High-resolution Remote Sensing Imagery". 
 
 
 ## Requirements
@@ -41,4 +41,4 @@ The data folder is structured as follows:
 
 ## Citation
 
-The paper was submitted to REMOTE SENSING OF ENVIRONMENT.
+The paper was submitted to ISPRS Journal.
